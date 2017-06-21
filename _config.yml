@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: tecnodur
+title: jekyll-theme-hackcss
 description: > # this means to ignore newlines until "baseurl:"
   A minimalistic theme for Jekyll, based on hack.css
-repository: https://tecnodur.github.io
-baseurl:  # the subpath of your site, e.g. /blog
-url: https://tecnodur.github.io  # the base hostname & protocol for your site
+repository: https://github.com/wemake-services/jekyll-theme-hackcss
+baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
+url: https://wemake-services.github.io  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -21,13 +21,12 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: tecnodur
-email: tecnodur@gmail
+your_name: wemake.services
+email: mail@sobolevn.me
 
-#Aquim ficam os menus da esquerda
 navigation:
   - text: Home
     url: /
@@ -54,11 +53,11 @@ projects:
 
 social:
   - service: github
-    username: tecnodur
-    link: https://github.com/tecnodur
+    username: sobolevn
+    link: https://github.com/sobolevn
   - service: twitter
-    username: tecnodur
-    link: https://twitter.com/tecnodur
+    username: sobolevn
+    link: https://twitter.com/sobolevn
 
 # Plugins
 gems:
