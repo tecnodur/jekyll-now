@@ -9,12 +9,12 @@ published: false
 - Tema escolhido foi [jekyll-clean-dark](https://github.com/streetturtle/jekyll-clean-dark) pelo 
 - Alterei as configurações necessárias em \_config.yml
 - Alterei o ficheiro social.html para incluir
-	```	{% if site.social.twitter %} 
+{% highlight linenos %}
+{% raw %}
+	{% if site.social.twitter %} 
     	<li> 
      	 <a title="{{ site.social.twitter }} on Twitter.com" href="https://www.twitter.com/{{ site.social.twitter }}" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
    	 </li>
- 	 {% endif %}```
-- 
-- 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+ 	 {% endif %}
+{% endraw %}
+{% endhighlight %}
