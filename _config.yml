@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: jekyll-theme-hackcss
+title: tecnodur
 description: > # this means to ignore newlines until "baseurl:"
   A minimalistic theme for Jekyll, based on hack.css
-repository: https://github.com/wemake-services/jekyll-theme-hackcss
-baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
+repository: https://tecnodur.github.io
+baseurl:  # the subpath of your site, e.g. /blog
 url: https://wemake-services.github.io  # the base hostname & protocol for your site
 
 # Build settings
