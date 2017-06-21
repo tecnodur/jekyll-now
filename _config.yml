@@ -21,12 +21,13 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: dark  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email: mail@sobolevn.me
+your_name: tecnodur
+email: tecnodur@gmail
 
+#Aquim ficam os menus da esquerda
 navigation:
   - text: Home
     url: /
@@ -53,11 +54,11 @@ projects:
 
 social:
   - service: github
-    username: sobolevn
-    link: https://github.com/sobolevn
+    username: tecnodur
+    link: https://github.com/tecnodur
   - service: twitter
-    username: sobolevn
-    link: https://twitter.com/sobolevn
+    username: tecnodur
+    link: https://twitter.com/tecnodur
 
 # Plugins
 gems:
