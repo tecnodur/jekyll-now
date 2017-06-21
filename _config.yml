@@ -20,10 +20,11 @@ share:
 
 social:
   github: tecnodur
-  stackoverflow: ''
-  linkedin: nunodurao
+  #stackoverflow: ''
+  linkedin: nuno-durao
   #instagram: ''
   #lastfm: ''
+  twitter: tecnodur
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
