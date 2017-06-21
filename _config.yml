@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   A minimalistic theme for Jekyll, based on hack.css
 repository: https://tecnodur.github.io
 baseurl:  # the subpath of your site, e.g. /blog
-url: https://wemake-services.github.io  # the base hostname & protocol for your site
+url: https://tecnodur.github.io  # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: dark  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
 your_name: wemake.services
