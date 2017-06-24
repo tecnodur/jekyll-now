@@ -1,6 +1,6 @@
 ---
 published: true
-description: Simple explanation
+description: Simple explanation on how to add a Reddit share button
 title: Adding a share reddit button
 date: 2017-06-24T21:15:00.000Z
 share: true
@@ -30,4 +30,4 @@ So in the file _includes/share.html , i've remove the part about instagram, and 
    	 </li>
     	{% endif %}
 {% end raw %}
-{% endhighlight xml %}
+{% endhighlight html %}
