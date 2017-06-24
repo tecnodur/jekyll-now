@@ -6,6 +6,7 @@ share: true
 description: Simple explanation of what i've done to add the Reddit share button
 layout: post
 comments: true
+publish: true
 ---
 ## Adding the share Reddit option
 
