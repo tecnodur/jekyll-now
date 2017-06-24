@@ -1,5 +1,13 @@
 ---
 published: true
+description: How to create a new post
+date: 2017-06-24T21:15:00.000Z
+share: true
+layout: post
+publish: true
+tags:
+  - blog
+  - jekyll
 ---
 ## Creating a new post
 
