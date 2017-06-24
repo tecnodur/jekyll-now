@@ -25,7 +25,7 @@ tags:
   - customizations
   - jekyll
 
-{% end raw %}
+{% endraw %}
 {% endhighlight xml %}
 
 - Because i use prose.io
