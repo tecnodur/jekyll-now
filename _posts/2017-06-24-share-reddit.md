@@ -1,7 +1,7 @@
 ---
 published: true
 title: Adding a share reddit button
-date: 2017-06-24T21:15:00.000Z
+date: 2017-06-24 21:15:00
 share: true
 description: Simple explanation of what i have done to add the Reddit share button
 layout: post
