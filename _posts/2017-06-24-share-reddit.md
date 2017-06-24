@@ -2,7 +2,7 @@
 published: true
 description: Simple explanation
 title: Adding a share reddit button
-date: {}
+date: 2017-06-24T21:15:00.000Z
 share: true
 layout: post
 comments: true
