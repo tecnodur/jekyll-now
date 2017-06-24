@@ -1,7 +1,7 @@
 ---
-published: false
+published: true
 title: Adding a share reddit button
-date: 2017-06-24T21:15:00.000Z
+date: {}
 share: true
 description: Simple explanation of what i've done to add the Reddit share button
 layout: post
@@ -28,4 +28,3 @@ So in the file _includes/share.html , i've remove the part about instagram, and 
     {% endif %}
 {% end raw %}
 {% endhighlight xml %}
-
